@@ -1,0 +1,10 @@
+classes are very important because without them we could not have our programs do what we would want. Classes are used to store and organise our information.
+a class can have mutiple different constructors but only one is called when we initlize our constructors. we can have mutiple constructors like we had when we did our text adventure game.
+
+Scope and access modifiers:
+the scope is generaly defined by code blocks, so for everything that is in a Class are definied within the Scope and they cant be used outside of it. 
+
+access modifiers:
+the access modifiers are things such as public and private. they are placed before a data type when declaring the variable. and its purpose is to define where the variable or function can be seen from.
+declaring a variable public means that it can be accessed from outside the class. and it can be editedd or modified.
+declaring a variable as private means that the program cannot see that variable.
