@@ -1,0 +1,13 @@
+conventions and syntax:
+coding syntax means the structure of the language. for example the dot operator. you would use it as a way to intimplate a line of code.
+for example when you use console you use a dot operator, so Console.ReadLine would be a example of a dot operator. it works like writing a line of a address.
+you use a semicolon is used to end a statment.
+
+C# vs JS:
+in javascript the declaration is hidden, meaning that what you write in the script is automatically inside the class.
+in C# script the class declarations are shown.
+a variable in C# is called int, or double. you can also give the variable a value.
+in Javascript you call variables var. you can also give it a defalt value
+in C# you have function declaration returns a type. you name the function. or you can use void if you dont want it to return anything from the function.
+in Javascript a function declaration starts with the keyword function, then you name the function and then comes the parameter list.
+the difference between C# and Javascript defalt access: in C# the default access is private. in Javascript the default access is public.
