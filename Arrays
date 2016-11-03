@@ -1,0 +1,4 @@
+Arrays are a way to storing a collection of data together. insted of listing them out one by one in mutiple lists you can store them in a array.
+you need to decalre the length by using the term new and then name the array. and the size of the array or you can do it on one line and not spesify the length of the array. then you call the array by typing it in your spot.
+arrays work very well with loops. using for int i = 0; i < players.Length; i++ is a example of using arrays with loops.
+you can make arrays public and have it show in the inspector and allicate values to it.
