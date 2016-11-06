@@ -1,0 +1,5 @@
+there are the for loops, the while loops, do while loops, for while loops. the loop will continue while the statment is true.
+for the while loop will continue to run  as long as the conditional evaluates to true.
+the do while loop is almost exactly the same as the while loop except for the while loop runs the condition at the begging, and the do while loop run the condition at the end.
+the for loop functions simily to the do while loop. you can use the for loop for enemies. to increase the number of items or to count.
+the for each loop. this loop is useufll for arrays. it is basically loops the collection item by item until it stops.
