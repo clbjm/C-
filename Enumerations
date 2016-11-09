@@ -1,0 +1,4 @@
+enumerations are a specific subset of possible values. you can create it within or outside the class. how you could use a enum for directions enum Direction {North, East, South, West};
+you can have the directions equal any value such as north = 1 and so on. the constants can be changed to any type.
+the variable can have a myDirection.North can equal anything and you can return reverse direction so it would return the oppisate direction
+so north equals south, and south would equal north, west would equal east and east would equal west.
