@@ -1,0 +1,3 @@
+switch statments have cases and breaks. you can have as many cases you want. you first start with the switch keyword, then you use a curleybrace and then you use the case keyword.
+after each case you use the break keyword.
+for a example for switch statments i will use a snipit from my text adventure game. i used the switch statments for mutiple choice. so if they choose A for their answer then the program would then display that message that goes with the A answer. then i used a break and so on for each of the choices.
